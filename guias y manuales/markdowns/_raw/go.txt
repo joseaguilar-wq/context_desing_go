@@ -1,0 +1,255 @@
+
+=== PAGE 1 (pdftotext) ===
+GRUPO ORTIZ
+MANUAL DE MARCA
+
+=== PAGE 1 (OCR fallback) ===
+MANUAL DE MARCA
+
+=== PAGE 2 (pdftotext) ===
+
+
+=== PAGE 2 (OCR fallback) ===
+WY
+grupo ortiz
+
+=== PAGE 3 (pdftotext) ===
+GRUPO ORTIZ
+Desde su fundación en 1959, Grupo Ortiz® se ha 
+caracterizado por una cultura basada en la 
+innovación, creatividad y valores fundamentales 
+como el amor, la integridad y la excelencia. Nos 
+consideramos una familia, comprometida en hacer lo 
+correcto y en mantener altos estándares en todo lo 
+que hacemos. La excelencia no solo define nuestros 
+productos, sino también quiénes somos como 
+organización.
+Este manual sirve como guía para asegurar el uso 
+coherente de los elementos visuales y comunicativos 
+de la marca. Su objetivo es mantener la uniformidad 
+en la aplicación de logotipos, tipografías y colores, 
+reflejando siempre los valores y la personalidad de 
+Grupo Ortiz en todas las plataformas y medios.
+INTRODUCCIÓN
+GRUPO ORTIZ
+
+=== PAGE 4 (pdftotext) ===
+GRUPO ORTIZ
+IDENTIFICADOR PRINCIPAL
+
+=== PAGE 4 (OCR fallback) ===
+IDENTIFICADOR PRINGIPAL -
+
+=== PAGE 5 (pdftotext) ===
+GRUPO ORTIZ
+NEGATIVO
+POSITIVO
+IDENTIFICADOR PRINCIPAL
+
+=== PAGE 5 (OCR fallback) ===
+DENTIFIGADOR PRINGIPAL GRUPO ORTIZ
+go Ez:
+grupo ortiz Pte
+
+=== PAGE 6 (pdftotext) ===
+GRUPO ORTIZ
+A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z
+MORGANITE EXTRA BOLD
+TIPOGRAFIAS
+CORPORATIVAS
+A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z
+a b c d e f g h i j k l m n ñ o p q r s t u v w x y z 
+HELONY
+Morganite 
+es 
+nuestra 
+tipografía 
+principal, elegida por su estilo moderno 
+y elegante. Se utiliza exclusivamente en 
+mayúsculas en títulos y elementos 
+destacados, aportando personalidad y 
+claridad.
+Helony es nuestra tipografía secundaria, 
+perfecta para textos largos por su 
+legibilidad. Junto con Morganite, crea un 
+balance visual que refuerza nuestra 
+identidad.
+
+=== PAGE 7 (pdftotext) ===
+C: 0%
+M: 70%
+Y: 93%
+K: 0%
+R: 251%
+G: 103%
+B: 11%
+NARANJA
+Hex:
+FB670B
+Pantone1585
+C: 73%
+M: 63%
+Y: 59%
+K: 75%
+R: 38%
+G: 38%
+B: 38%
+GRIS OSCURO
+Hex:
+262626
+Pantone 419
+C: 61%
+M: 51%
+Y: 49%
+K: 44%
+R: 83%
+G: 83%
+B: 83%
+GRIS
+Hex:
+535353
+Pantone 445
+C: 26%
+M: 19%
+Y: 29%
+K: 2%
+R: 197%
+G: 197%
+B: 197%
+GRIS CLARO
+Hex:
+C5C5C5
+Pantone 1585
+PALETA DE COLORES
+CORPORATIVOS
+
+=== PAGE 8 (pdftotext) ===
+GRUPO ORTIZ
+Naranja y Gris Oscuro
+Fondos principales, títulos destacados y elementos clave en la comunicación visual.
+COLOR PRIMARIO:
+Gris y Gris Claro
+Complemento en fondos, gráficos y acentos para resaltar ciertos elementos.
+COLOR SECUNDARIO:
+Blanco y Gris Oscuro
+Texto en cuerpos principales, subtítulos, párrafos largos y descripciones.
+COLOR DE TEXTOS:
+Naranja y Blanco
+Íconos, gráficos, bordes, botones detalles, y textos decorativos que complementen el diseño principal.
+COLORES COMPLEMENTARIOS:
+USO DE COLORES
+CORPORATIVOS
+
+=== PAGE 9 (pdftotext) ===
+GRUPO ORTIZ
+LOREM IPSUM
+LOREM IPSUM DOLOR SIT AMET, 
+CONSECTETUER ADIPISCING ELIT, SED 
+DIAM NONUMMY NIBH EUISMOD 
+TINCIDUNT UT LAOREET DOLORE 
+MAGNA ALIQUAM ERAT VOLUTPAT.
+TINCIDUNT UT LAOREET
+GRUPO ORTIZ
+LOREM IPSUM
+LOREM IPSUM DOLOR SIT AMET, 
+CONSECTETUER ADIPISCING ELIT, SED 
+DIAM NONUMMY NIBH EUISMOD 
+TINCIDUNT UT LAOREET DOLORE 
+MAGNA ALIQUAM ERAT VOLUTPAT.
+TINCIDUNT UT LAOREET
+GRUPO ORTIZ
+EJEMPLO DE USO DE 
+COLORES
+CORPORATIVOS
+
+=== PAGE 10 (pdftotext) ===
+GRUPO ORTIZ
+USOS CORRECTOS
+
+=== PAGE 10 (OCR fallback) ===
+NEUTRALS ——_
+wy
+G re grupo ortiz
+grupo ortiz
+
+=== PAGE 11 (pdftotext) ===
+GRUPO ORTIZ
+USOS INCORRECTOS
+NO DEFORMAR
+NO ROTAR
+NO CAMBIAR
+COLOR
+NO DELINEADO
+
+=== PAGE 11 (OCR fallback) ===
+INI RNAI ak
+| LET on grupo ortiz Grupo ortiz
+grupo ortiz
+NO DEFORMAR NO ROTAR NO CAMBIAR NO DELINEADO
+COLOR
+
+=== PAGE 12 (pdftotext) ===
+GRUPO ORTIZ
+Mapa de degradado:
+#262626 - #535353
+Mapa de degradado:
+#FB670B - #FF9D43
+ 
+USOS DE FONDOS
+FOTOGRAFICOS
+
+=== PAGE 13 (pdftotext) ===
+GRUPO ORTIZ
+REFERENCIAS VISUALES (DISEÑO)
+
+=== PAGE 13 (OCR fallback) ===
+os
+REFERENCIAS TAN CN ae
+ahh Sa) ' NEW GRINDING
+ee OEE Bl 5 ee : SOLUTIONS
+— , i Pe BU ee | MTT Fee ae
+ttt ere Hy pcos a mE Bree
+TINS ee see | | | Ef fees
+a oot Whee | | CS | fe Mat Cea oe . |
+HARSH. ‘ . hese \ Me ps cn “TN g Oe ! i eS > y 2 HARSH Ga us
+E. al ee 4 at ON | = on !
+a CITT TOT TIO : ae ee /| .
+a  —  — | | | | a |
+eT Seo a
+Ege c eg Pra : roe
+cee LE = NA Ee A ARM a eee ee
+si cde ed i ae faa a = a faa
+" es + 4 eee eer eS ae ered
+aa Ss ff mapas 274 5 = Ss y jo SSL i
+Dl i i ee err e wy EE “ay en Sf 2S ae wi sh = ae
+, lL am a ‘GS ee a J, \, Cael) ie lh a i Ll
+NG) i ye fh - aa to ae — ave : i ben i eel eae ene ll oa
+2 ans mee ‘ wd Jide Be eer t Le ee
+
+=== PAGE 14 (pdftotext) ===
+REFERENCIAS VISUALES (FOTOGRAFIA)
+
+=== PAGE 14 (OCR fallback) ===
+: i * bss a ,
+Pa fs 4}
+Pe . ; 7. Av, Naar CO a Ten
++ en ; —_ ad — “7 ey RS Gree ie
+a ht — oer TE a. ne: Ga” Pye om
+ed * Fg cnenen rea 7 ) oe Sry _y — it = (p> =
+= is , 7 cy} =i rv ‘wr ire -_-———— J fil = th ee mma }
+le ee a oe i Saar ee
+& ee ‘ — ee a, zee ie by AY . ae ORR Sn nell iLL . <u ype
+Ta S — Seay i ae i |) 2b MUN 's SS Pee re Ete . a
+. ae = fe a = aN ee SS
+_ | i #3 Phy : ipa ‘p a i Abs se —— | e F ey
+me |) OS : - j Pe ;
+: ae a | " i rT — ~ ae } en =
+; Ez Lan Tm —=
+ae R Ee eo lee oo a ee
+i meio | Waa a a A
+9 = M ~ (hia a - at\ jn)
+—— / | Oye a a
+= & i. _ Re A tic etre
+i | . S 37 =- S.-i
+ee : > re
+Een

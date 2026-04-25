@@ -581,4 +581,40 @@ new desing/
 
 ---
 
-*Última actualización: 2026-04-24 · Generado desde activos oficiales de Grupo Ortiz*
+
+## 13. SISTEMA DE SUB-MARCAS
+
+> Este archivo (`context_design.md`) define el **sistema GO** — la capa global que aplica a **todos** los proyectos del ecosistema: escala tipográfica, modo oscuro, componentes UI, tablas, reportes y assets corporativos.
+
+Grupo Ortiz opera un portafolio de 6 marcas. Cada sub-marca tiene su propio manual de identidad que **extiende** (no reemplaza) este sistema:
+
+| Sub-marca | Archivo | Sector |
+|---|---|---|
+| Grupo Ortiz (corporativo) | `guias y manuales/markdowns/go.md` | Corporativo |
+| Plaza Madero | `guias y manuales/markdowns/pm.md` | Retail tecnológico |
+| Hotel Punta Galería | `guias y manuales/markdowns/hpg.md` | Hospitalidad |
+| Loly Gummies | `guias y manuales/markdowns/loly.md` | CPG / salud familiar |
+| Ichigo Agencia Creativa | `guias y manuales/markdowns/ichigo.md` | Servicios creativos |
+| Todo Pal Negocio® | `guias y manuales/markdowns/todo-pal-negocio.md` | Comercio / ofertas |
+
+### Punto de entrada del sistema de marcas
+
+Para proyectos que involucren **más de una marca** o que requieran saber **qué marca aplicar**, el archivo maestro orquestador es:
+
+→ **`guias y manuales/markdowns/brand_system.md`**
+
+Contiene: mapa del portafolio, árbol de decisión, reglas de precedencia, tabla de conflictos de color, fichas rápidas y todos los tokens CSS del sistema completo.
+
+### Regla de carga para agentes e IA
+
+```
+Proyecto corporativo GO         → context_design.md  +  go.md
+Proyecto de sub-marca           → context_design.md  +  {slug}.md
+Proyecto multi-marca            → context_design.md  +  brand_system.md  +  {slugs}.md
+Duda sobre qué marca usar       → brand_system.md §2 (Árbol de decisión)
+Conflicto de color entre marcas → brand_system.md §4 (Tabla de conflictos)
+```
+
+---
+
+*Última actualización: 2026-04-25 · Sistema de sub-marcas integrado*

@@ -1,0 +1,165 @@
+
+=== COLORES CORPORATIVOS (extraídos de drawing paths — texto vectorizado) ===
+Nota: Este PDF tiene todos los textos convertidos a paths. Los siguientes colores
+fueron extraídos mediante análisis de trazos vectoriales con pymupdf.
+
+Página 6 (paleta corporativa):
+  ROJO PRINCIPAL  → #E2032C
+  AMARILLO        → #FBBE27 / #FCD722
+  AZUL OSCURO     → #55707A
+  NEGRO CAFÉ      → #394652
+
+Paleta recurrente en todo el documento (corporativos):
+  #E2032C  — Rojo (dominante)
+  #FBBE27  — Amarillo (dominante)
+  #FCD722  — Amarillo claro
+  #394652  — Azul oscuro
+  #55707A  — Azul medio
+  #788E9B  — Azul gris
+  #BAC0C5  — Gris claro
+  #211F1F  — Negro
+
+<!-- OCR: revisar — colores obtenidos de paths PDF, no de texto legible -->
+
+
+=== PAGE 1 (pdftotext) ===
+
+
+=== PAGE 1 (OCR fallback) ===
+“ todo pal
+atte Colt (oy
+
+=== PAGE 2 (pdftotext) ===
+
+
+=== PAGE 2 (OCR fallback) ===
+
+
+=== PAGE 3 (pdftotext) ===
+
+
+=== PAGE 3 (OCR fallback) ===
+
+
+=== PAGE 4 (pdftotext) ===
+
+
+=== PAGE 4 (OCR fallback) ===
+pet todo pal
+4+ NEGOCcIO®
+
+=== PAGE 5 (pdftotext) ===
+
+
+=== PAGE 5 (OCR fallback) ===
+todo pal
+negocio’
+
+=== PAGE 6 (pdftotext) ===
+
+
+=== PAGE 6 (OCR fallback) ===
+Were (oled ton
+
+=== PAGE 7 (pdftotext) ===
+Promociónes
+de locura
+Eigerdals Black
+
+=== PAGE 7 (OCR fallback) ===
+Eigerc Tal 4
+
+=== PAGE 8 (pdftotext) ===
+Promociónes
+de locura
+
+=== PAGE 8 (OCR fallback) ===
+de locura
+
+=== PAGE 9 (pdftotext) ===
+Cuerpo de texto
+Como family font (-28 kerning)
+
+=== PAGE 9 (OCR fallback) ===
+Cuerpo de texto
+Como family Font (-28 kerning)
+
+=== PAGE 10 (pdftotext) ===
+
+
+=== PAGE 10 (OCR fallback) ===
+Sc Dre e Le |
+ro ee TU erst PS ut ee P ‘ La 7 “ _8 * $3557 $55 os 654% 46%
+Bie Sis eg ae Chae, Sy he oe : eS | i LEMMA ILE
+bse - eth eae eG Nene > a j 3 a ie |, =, eae
+‘ a a mel auf = A Sess J wi 6 tn. “A " ee + ee , , w-. , = — a, , a [oo : & 2 SEAS z
+evi = - | tens 5 ¢ ewe m , » , Tau wf te
+Ae ee, Ak >| Sie wi AS Sao a ‘ ee
+es ek eet cs ae EN ae + a
+cba: i A a” ‘ns &
+949 Mi 0 Oo “trtleaos ty a 2 Rr ; ] . | Li iy - E Se
+Oe $2 a .- > a a
+ae vs Of O10 oe | r oe
+Me + lo am | i " bot 5s
+} ae ae Oe : (oo : ey Be. it P| h =
+| “9 ae ¥ ee eee
+. —— =_—- = ald 5 ‘y | | 7 vies or — 4 : . |] eat .
+i ae 4 ¥ 4 ta 7 ] .
+\ c Tite oy ty / % , } 1 ‘ |
+iH 4 - Ware PE om ne gee eh > 7 a 10 . % ; + Pas i ra i
+Rie et Me GS i 0. Lule. Rae aS pe latealliia 4h Gl re - ~ ; ines | 3 ; Aa\\ Mb, t -
+. Bh s aa * sate nian i as so ss fa leat = oo ei aes ih “ . sitiaiee Thi Lk, os ae, a a —— J of ’ . : io a ee i as 7 i
+: te ee ee ee —— A i —— meh oe fh eat i ee - .
+SR tn Sah an ag ieee a eee Sees _ ae ae xu
+aa 7 ee ie ee pee ee = ae
+Sn Seren gS cesta cose Mpeererrety eee” en : REDES SOCIALES f encwinene
+CARTEL Vis PCL ft unsace ae i. > »
+SUPERMERCADO z — £ ¢
+DINOSSAURO >, aoe # a
+a ial C0904 Soe a
+a row 4 Ss 1g
+F , 6-- ; 4 n ¢ = e
+Se cae Sele ta! ow — a a
+La ~oope sae ’ 18 ot Ee a 7 ) i
+coca c ; 7] i
+A Me :
+epee ae c — aah ~ t
+< Wa AEP RT e coy co 3
+pre resent wiht 2 - Bae al
+f Ann ter Clemente ‘ y » ee
+er oJ 5 . | hell
+rl —— F “9 1 ° —— |
+Lembrete og TARE | sccm. | QS one ey |
+Fs s —_ | i = } ] =
+Dia de Hortifruti “7 al | >
+novas frutas e legumes “4 . Sade |
+fresquinhos para vocé! |
+© SUPERMERCADO ABERTO ATE AS 21:00H
+/\\ ~ , jappomart nai nd AN BRIE sos Sen * nore RL
+( ?- * : | 102 publicagses  WBmiil sequidores 64 sequindo ip ais: ray rae ats) “ A ne , vs ‘
+‘ / \e. ,; = 3appo Mar Bana ; Re > aes pisse. art state. 5 paats.ra
+. =f FU Be ee aa a ee cg ae: Hf Rate
+=  @ @ we. ls : @. RS 62 E 7 Le
+a = ) ass Bea © > PISA . = ES 4
+ae mo 2 ao og rye. , ate ol ; i fo ¥
+m — -— 4 L - - * % i a a Be Ws a oi ; 4 i 9, EST: aay _
+= a1 OS ka edie fo SINR Alia) 2 oS = Mats ae
+2S 0G = a ae pee tie og: eae ee a a
+Ss WV Mi pa ok sey a isa on moc MeN / \
+: a ) Wc SR ae Ee Eh, ae
+wy \ 4 raed Eas ws aN
+Z
+BE 3 |
+
+=== PAGE 11 (pdftotext) ===
+Ahorro de
+locura
+ven y
+compruebalo
+
+=== PAGE 11 (OCR fallback) ===
+4 tS
+4 PNA
+1 Pera ie
+oe |
+= negocio®

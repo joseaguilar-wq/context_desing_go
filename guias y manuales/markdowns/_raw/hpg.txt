@@ -1,0 +1,124 @@
+
+=== PAGE 1 (pdftotext) ===
+
+
+=== PAGE 1 (OCR fallback) ===
+“KlinvtaGaleria
+
+=== PAGE 2 (pdftotext) ===
+#838c2f
+RGB: (131, 140, 47)
+CMYK: (6%, 0%, 66%, 45%)
+Pantone: 5777 C (aproximado)
+#626c1f
+RGB: (98, 108, 31)
+CMYK: (9%, 0%, 71%, 58%)
+Pantone: 582 C (aproximado)
+Hex: #323f48
+RGB: (50, 63, 72)
+CMYK: (31%, 13%, 0%, 72%)
+Pantone: 7546 C (aproximado)
+Hex: #236d00
+RGB: (35, 109, 0)
+CMYK: (68%, 0%, 100%, 57%)
+Pantone: 364 C (aproximado)
+Hex: #e5e0d8
+RGB: (229, 224, 216)
+CMYK: (0%, 2%, 6%, 10%)
+Pantone: 7527 U (aproximado)
+Hex: #c7b7a4
+RGB: (199, 183, 164)
+CMYK: (0%, 8%, 18%, 22%)
+Pantone: 7527 C (aproximado)
+
+=== PAGE 3 (pdftotext) ===
+
+
+=== PAGE 3 (OCR fallback) ===
+safle
+
+=== PAGE 4 (pdftotext) ===
+
+
+=== PAGE 4 (OCR fallback) ===
+Cte Galena
+
+=== PAGE 5 (pdftotext) ===
+
+
+=== PAGE 5 (OCR fallback) ===
+safle
+
+=== PAGE 6 (pdftotext) ===
+
+
+=== PAGE 6 (OCR fallback) ===
+4KlintaGaleria
+
+=== PAGE 7 (pdftotext) ===
+Brisbane semibold
+(-20 kerning)
+Encabezados
+
+=== PAGE 7 (OCR fallback) ===
+Encabezados
+Brisbane semibold
+(-20 kerning)
+Blinta
+
+=== PAGE 8 (pdftotext) ===
+cuerpos de texto
+salford sans vf family
+
+=== PAGE 8 (OCR fallback) ===
+cuerpos de texto
+salford sans vf family
+efit
+
+=== PAGE 9 (pdftotext) ===
+
+
+=== PAGE 9 (OCR fallback) ===
+Pa ! ae
+oy | | ke wea = AAD
+ene ni Ve ¥ O
+a e i 9 oan ' ’ ec) \ = |
+« ie — a ve ~ oO ;
+\ — Ae | D \ ra i oe
+! aa a ! Gi \ y tf e
+|B a. bins JN bees i
+Se CS kee . Yee ee,
+a -—tié<M NC et
+EN ss c= =— f pene. a Sa
+oeptpralign: batted Bien T : a ie Se, mo Sas } elle ,
+Cope OUR WH a Tis e_F i | i ys IL P
+Ses | Besrory Prem ASTRID q -y ae
+= , f  eoekern es ? . ; b. . aa
+— is : -.- iT _ y Bore
+: F j a i 7 WN Py
+CAKE! 256"
+NI] y ea \ =™ Beet aa...
+
+=== PAGE 10 (pdftotext) ===
+
+
+=== PAGE 10 (OCR fallback) ===
+a flieerl eae
+
+=== PAGE 11 (pdftotext) ===
+www.hotelpuntagaleria.com.mx
+443 314 08 36
+ubicación privilegiada
+disfruta de nuestra
+
+=== PAGE 11 (OCR fallback) ===
+‘ F ao P * ) Oy, ye
+; , iy Me
+:6—hlaer ' :
+/Sdisfruta'denuestra Af
+-gubicacion privilegiaday ~
+ty — E SS = = —_
+| a ae a iil ) >
+a - - —— A
+ee
+443 314 08 36 www.hotelpuntagaleria.com.mx aati
