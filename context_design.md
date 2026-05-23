@@ -1,4 +1,8 @@
 # Grupo Ortiz — Design System Context
+> **RECURSO COMPARTIDO** — Fuente de verdad visual para todos los proyectos del ecosistema `proyectos_go`.
+> Proyectos que me consumen: [[market_intelligence]] | [[ventas_rafias_go]] | [[automatizacion ventas sacos]] | [[multiestudo_mercado]] | [[charolas]] | [[Own AI]]
+> Archivo hermano: [[CLAUDE]] (memoria de agente para extraccion de marcas)
+> Repo espejo: https://github.com/joseaguilar-wq/context_desing_go.git
 > Fuente de verdad para todos los proyectos internos. Aplica a: web apps, reportes HTML, PDFs, emails, tablas, presentaciones y cualquier pieza digital de Grupo Ortiz.
 
 ---

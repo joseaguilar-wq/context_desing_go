@@ -1,5 +1,10 @@
 # IDENTIDAD DE MARCA — Memoria de Agente
 
+> **RECURSO COMPARTIDO** — Este proyecto es fuente de verdad visual para TODO el ecosistema `proyectos_go`.
+> Proyectos que me consumen: [[market_intelligence]] | [[ventas_rafias_go]] | [[automatizacion ventas sacos]] | [[multiestudo_mercado]] | [[charolas]] | [[Own AI]]
+> Conexiones pool: [[CLAUDE]] | [[context_proyectos]] | [[framework_operative_enforrcement/CLAUDE]] | [[framework_operative_enforrcement/PLAYBOOK]] | [[framework_operative_enforrcement/FRAMEWORK]]
+> Archivos clave: [[context_design]] | [[guias y manuales/markdowns/brand_system]] (orquestador multi-marca) | [[guias y manuales/markdowns/go]] (marca madre)
+
 > Memoria persistente para trabajo de extracción y estructuración del sistema de marcas Grupo Ortiz. Lee esto antes de actuar sobre la carpeta.
 
 ---

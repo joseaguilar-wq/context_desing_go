@@ -1,22 +1,0 @@
-BRANDBOOK
-PLAZA MADERO
-       FONT LOGO
-MENSEAL REGULAR
-          FONT SLOGAN
-ARTICULAR SF REGULAR
-       Dos flechas simbolizando el
-       encuentro entre la tecnologia y el hombre
-
-
-
-
-Un espacio negativo, simbolizando ese encuentro
-               Pantone 728 C                  Pantone 2715 C                Pantone Black 7 C                 Pantone 663 C                 Pantone 375 C                  Pantone 7530 C
-
-
-
-
-RGB: (214, 183, 141)           RGB: (124, 144, 229)            RGB: (34, 37, 36)                RGB: (245, 247, 240)          RGB: (204, 255, 80)           RGB: (155, 139, 120)
-CMYK: 0%, 15%, 34%, 16%        CMYK: 46%, 37%, 0%, 10%         CMYK: 8%, 0%, 3%, 85%            CMYK: 1%, 0%, 3%, 3%          CMYK: 20%, 0%, 69%, 0%        CMYK: 0%, 10%, 23%, 39%
-HEXA: #D6B78D                  Hexadecimal: #7C90E5            Hexadecimal: #222524             Hexadecimal: #F5F7F0          Hexadecimal: #CCFF50          Hexadecimal: #9B8B78
-

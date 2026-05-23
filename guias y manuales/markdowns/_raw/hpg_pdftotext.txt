@@ -1,47 +1,0 @@
-#838c2f
-RGB: (131, 140, 47)
-CMYK: (6%, 0%, 66%, 45%)
-Pantone: 5777 C (aproximado)
-
-#626c1f
-RGB: (98, 108, 31)
-CMYK: (9%, 0%, 71%, 58%)
-Pantone: 582 C (aproximado)
-
-Hex: #323f48
-RGB: (50, 63, 72)
-CMYK: (31%, 13%, 0%, 72%)
-Pantone: 7546 C (aproximado)
-
-Hex: #236d00
-RGB: (35, 109, 0)
-CMYK: (68%, 0%, 100%, 57%)
-Pantone: 364 C (aproximado)
-
-Hex: #e5e0d8
-RGB: (229, 224, 216)
-CMYK: (0%, 2%, 6%, 10%)
-Pantone: 7527 U (aproximado)
-
-Hex: #c7b7a4
-RGB: (199, 183, 164)
-CMYK: (0%, 8%, 18%, 22%)
-Pantone: 7527 C (aproximado)
-     Encabezados
-
-
-
-
-Brisbane semibold
-                   (-20 kerning)
-     cuerpos de texto
-
-
-
-
-salford sans vf family
-       disfruta de nuestra
-       ubicación privilegiada
-
-443 314 08 36   www.hotelpuntagaleria.com.mx
-
