@@ -65,6 +65,38 @@ Con acento: `#FB670B` (naranja)
 }
 ```
 
+### Modo oscuro — Dashboards IA/tech
+
+Escala de fondos canonica para dashboards y herramientas internas:
+
+| Token | Hex | Uso |
+|-------|-----|-----|
+| `--go-dark-900` | `#09090B` | Fondo base (canvas principal) |
+| `--go-dark-800` | `#111113` | Superficie primaria (sidebars, panels) |
+| `--go-dark-700` | `#18181B` | Superficie secundaria (cards) |
+| `--go-dark-600` | `#27272A` | Superficie terciaria (inputs, hover states) |
+| `--go-error`    | `#E53E3E` | Semaforo rojo, errores, alertas criticas |
+
+Paleta categorica 6-series (orden fijo por proyecto en dashboards):
+
+| Slot | Color | Hex |
+|------|-------|-----|
+| 1 | Naranja | `#FB670B` |
+| 2 | Turquesa | `#14B8A6` |
+| 3 | Azul | `#38BDF8` |
+| 4 | Violeta | `#A78BFA` |
+| 5 | Verde | `#00A36E` |
+| 6 | Ambar | `#F59E0B` |
+
+Tipografia para dashboards IA/tech:
+
+| Rol | Fuente | Notas |
+|-----|--------|-------|
+| UI / navegacion | **Space Grotesk** | Estandar IA/tech — dashboards y herramientas internas |
+| Texto corrido | **Inter** | Complemento neutro |
+| Cifras / codigo | **JetBrains Mono** | Precios, commits, fechas |
+| Marketing / print | Blauer Nue | Solo piezas de marca — NO dashboards |
+
 ---
 
 ## 3. TIPOGRAFÍA
