@@ -172,10 +172,60 @@ IDENTIDAD-06.png  →  Imagotipo blanco — sobre fondos oscuros
 ```
 
 ### Fondo del ícono en UI
-Cuando el logo se use en contenedor pequeño (nav, favicon, avatar):
-- Fondo: `#F97316` (naranja) — **siempre, sin importar modo claro u oscuro**
+Cuando el logo se use en contenedor pequeño (nav, avatar):
+- Fondo: `#FB670B` (naranja GO) — **siempre, sin importar modo claro u oscuro**
 - Border-radius: `8px` (nav small), `14px` (login/card)
 - Logo PNG: versión blanca sobre ese fondo
+
+> Corregido 2026-08-27: esta regla decía `#F97316`, que **no es** el naranja de la
+> marca (el oficial es `#FB670B`, sección 2). Era una inconsistencia dentro de la
+> propia fuente de verdad.
+
+### Favicon corporativo — REGLA DURA (Jose, 2026-08-28)
+
+El favicon son **las hojas y nada mas**.
+
+- **Isotipo naranja `#FB670B` SIN FONDO**, sobre transparencia total. Ni placa, ni
+  cuadrado redondeado, ni relleno de ningun tipo.
+- El isotipo ocupa el **100% del ancho** del lienzo. El aire lo pone el navegador
+  alrededor de la pestana; recortarlo aqui solo cuesta legibilidad. Medido sobre el
+  icono de 16 px: 59 pixeles con tinta al 66% contra 100 al 100% — la hoja de
+  contorno solo se lee en el segundo.
+- El color es plano `#FB670B` en **todo pixel visible**, sin desviacion: la forma
+  vive en el canal alfa y el color se pinta al final. Si se deja que la reescala
+  interpole el RGB, Pillow mete negro en los pixeles de alfa bajo.
+
+> **Deroga la version del 2026-08-27**, que componia el isotipo al 66% sobre el
+> negro de marca `#262626` en un squircle de radio 22.37%. Motivo: directiva de
+> Jose, "sin fondo, solo las hojitas naranjas, esa es la regla para todos los
+> favicons".
+>
+> Nota de plataforma: iOS **no** respeta la transparencia en `apple-touch-icon` y la
+> compone sobre negro. El resultado en la pantalla de inicio son las hojas sobre
+> negro — que es la marca. No hay degradacion fea, por eso el set se emite completo
+> sin fondo.
+- Se aplica por **defecto al 100% de los proyectos de IA del departamento**.
+- **Excepción:** los proyectos de una unidad de negocio con marca propia
+  (TPN / Todo Pal Negocio, TPC, y las demás sub-marcas de `brand_system.md`)
+  conservan su favicon. Su marca manda dentro de su producto.
+
+Assets listos: `01_LOGO/favicon_go/` (ico + png 16→512 + apple-touch).
+Se regeneran desde el isotipo oficial con
+`framework_operative_enforcement/scripts/generate_favicon_go.py <dir_salida>`.
+No se dibujan a mano ni se recolorean en Figma.
+
+**Se declara con ICO + PNG, nunca con SVG:**
+
+```html
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+```
+
+Por qué no SVG: un SVG usado como favicon se renderiza en *secure static mode* y
+ahí el soporte de `<image href="data:...">` no está garantizado — un favicon que
+no pinta es peor que no tenerlo. Vectorizar el isotipo a paths tampoco da una
+copia fiel de las curvas del manual. ICO + PNG cubre el 100% de navegadores.
 
 ### Espacio de respeto
 - Mínimo: `= altura de la hoja pequeña del isotipo` alrededor del logo completo
